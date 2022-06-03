@@ -1,0 +1,34 @@
+{
+  "FlashCards": [
+    {
+      "projectName": "Japan",
+      "word": "Anime",
+      "answer": "アニメ",
+      "id": 1
+    },
+    {
+      "projectName": "Japan",
+      "word": "Cat",
+      "answer": "ねこ",
+      "id": 2
+    },
+    {
+      "projectName": "English",
+      "word": "neko",
+      "answer": "Cat",
+      "id": 3
+    },
+    {
+      "projectName": "Japan",
+      "word": "neko",
+      "answer": "Cat",
+      "id": 4
+    },
+    {
+      "projectName": "Japan",
+      "word": "Mountain",
+      "answer": "山口",
+      "id": 5
+    }
+  ]
+}
