@@ -82,6 +82,7 @@ function Add() {
           placeholder=""
         />
         <button type="submit">Add</button>
+        {/* just test */}
         {cardsData && cardsData.map(element => {
           return(element.answer)
         })}

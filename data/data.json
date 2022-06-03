@@ -29,6 +29,12 @@
       "word": "Mountain",
       "answer": "山口",
       "id": 5
+    },
+    {
+      "projectName": "English",
+      "word": "inu",
+      "answer": "Dog",
+      "id": 6
     }
   ]
 }
